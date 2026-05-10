@@ -1,7 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Raiyan%20Zannat%20Oshin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=a0c4ff)
-
+![Banner](banner.png)
 </div>
 
 ---
