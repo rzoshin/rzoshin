@@ -13,8 +13,8 @@ With a strong foundation in **Data Structures, Algorithms, and OOP**, I combine 
 
 Outside of code, I'm a **Math Olympiad champion**, a **Spelling Bee competitor**, and a **Scout** who represented Bangladesh internationally. I bring that same competitive discipline to everything I build.
 
-- 🔭 Building **SkillSphere** — my latest full stack Next.js project
-- 🌱 Exploring **Express.js** and backend architecture patterns
+- 🔭 Building **ArenaX** — my latest full stack Next.js project
+- 🌱 Exploring **TypeScript** and **Next.js Documentation**
 - ⚙️ Working on a **Next.js + Express.js + MongoDB** CRUD application
 - 🎯 Goal: Ship production-grade, scalable systems that solve real problems
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, or REST APIs**
