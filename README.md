@@ -13,11 +13,12 @@ With a strong foundation in **Data Structures, Algorithms, and OOP**, I combine 
 
 Outside of code, I'm a **Math Olympiad champion**, a **Spelling Bee competitor**, and a **Scout** who represented Bangladesh internationally. I bring that same competitive discipline to everything I build.
 
-- 🔭 Building **ArenaX** — my latest full stack Next.js project
-- 🌱 Exploring **TypeScript** and **Next.js Documentation**
-- ⚙️ Working on a **Next.js + Express.js + MongoDB** CRUD application
-- 🎯 Goal: Ship production-grade, scalable systems that solve real problems
-- 💬 Ask me about **React, JavaScript, Tailwind CSS, or REST APIs**
+
+* 🔭 Building **AI Interview Prep** — an AI-powered platform for technical interview preparation with mock interviews, roadmaps, flashcards, and progress analytics
+* 🌱 Deepening my expertise in **Next.js 15, TypeScript, System Design, and AI-powered applications**
+* ⚙️ Developing full-stack products using **Next.js, MongoDB, Auth.js, OpenAI APIs, and Redis**
+* 🎯 Goal: Build production-ready SaaS applications that solve real-world problems and create meaningful user experiences
+* 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Tailwind CSS, MongoDB, or REST APIs**
 
 ---
 
